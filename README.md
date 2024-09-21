@@ -1,7 +1,8 @@
-# Space
+<span style="font-family: 'Courier New', Courier, monospace;">Space-Time and Illusion</span>
 *eternal beings stuck in time, solar systems imagining its space-time structure*
 
 Gravitational Time Dilation Visualization with Three.js 
+
 
 ## Features
 - 3D rendering of Earth and Moon 
