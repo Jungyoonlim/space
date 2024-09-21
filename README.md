@@ -1,4 +1,4 @@
-<span style="font-family: 'Courier New', Courier, monospace;">Space-Time and Illusion</span>
+Space-Time and Illusion
 *eternal beings stuck in time, solar systems imagining its space-time structure*
 
 Gravitational Time Dilation Visualization with Three.js 
