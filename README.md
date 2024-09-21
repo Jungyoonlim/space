@@ -1,7 +1,7 @@
 # Space-Time and Illusion
 *eternal beings stuck in time, solar systems imagining its space-time structure*
 
-Gravitational Time Dilation Visualization with Three.js 
+Clock
 
 
 ## Features
